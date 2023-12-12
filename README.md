@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/Guriya124?theme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/guriyapandey830?theme=wtf)
 <!--
 **Guriya124/Guriya124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
